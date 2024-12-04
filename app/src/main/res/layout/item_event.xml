@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/tvNombreEvento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombre del evento"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvDescripcionEvento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Descripción" />
+
+    <TextView
+        android:id="@+id/tvPrecioEvento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gratis" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="event_name">Nombre del Evento</string>
+    <string name="event_description">Descripción del Evento</string>
+    <string name="event_price">Precio del Evento</string>
+    <string name="event_date">Fecha del Evento</string>
+    <string name="event_pass">Pase del Evento</string>
+    <string name="event_address">Dirección del Evento</string>
+    <string name="save_event">Guardar Evento</string>
+    <string name="register_event">Registrar Evento</string>
+    <string name="events">Eventos</string>
+</resources>
