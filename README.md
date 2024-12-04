@@ -60,4 +60,4 @@ Define el diseño para `RegisterEventActivity`, incluyendo EditTexts para los de
 
 Define el diseño para cada elemento de evento en el RecyclerView.
 
-URL: 
+URL: https://github.com/inesgmz/Ejercicio2Prueba2.git
